@@ -1,0 +1,27 @@
+1 https://developer.mozilla.org/en-US/docs/Web/API/window.requestAnimationFrame
+
+2 http://www.paulirish.com/
+
+3 http://www.kirupa.com/
+
+4 https://www.reddit.com/r/gamedev
+
+5 http://www.html5gamedevelopment.com/html5-game-tutorials/2013-12-developing-html5-games-1hr-video-presentation
+
+6 http://billmill.org/static/canvastutorial/
+
+7 http://truongtx.me/2014/02/23/set-up-javascript-development-environment-in-emacs/
+
+8 http://eloquentjavascript.net/
+
+9 http://eloquentjavascript.net/06_object.html
+
+10 http://www.codecademy.com/tracks/javascript
+
+11 https://github.com/zakir5050/skewer-mode
+
+12 https://github.com/zakir5050/frontend-nanodegree-arcade-game
+
+13 http://www.w3schools.com 
+
+14 http://discover-devtools.codeschool.com 

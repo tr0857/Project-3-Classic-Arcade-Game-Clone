@@ -1,0 +1,34 @@
+1st step maze displayed
+
+
+2nd step player displayed
+
+
+3rd step bugs displayed
+
+later handle the player. So he doesn't line step. Class for setting boundaries
+
+Then you can handle the input of the player. Watch for the key handling and adjust the data of my player so that whenever it draws it draws in a new position.
+
+Then work on bug speed
+
+write collisions function: if x and y coordinates match then you call reset.  Add the x position plus the bugs width. to find the nose of bug. Find x position of player. Check if player is on dangerous road. If so check if the nose of the bug is greater then the top left corner of my playa. 
+
+player starts with 16 pixels of blank space after
+
+
+
+143-145
+
+//add comments
+
+add Readme
+
+
+		Alternate code for changes in bug speed-
+		if(this.x<505){
+		   this.x+=((Math.random() * (600 - 200) + 200)*dt);
+		}
+		else{
+		    this.x=-100;
+		} 
